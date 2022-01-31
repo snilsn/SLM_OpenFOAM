@@ -153,9 +153,9 @@ MELTING
     
 //	//	Heatsource characteristics (sourve hits at z-x-plane, y = 0)
 HS_a 0.0003;//0.000030; //radius
-HS_bg 0.002;//.004;//20 //x-axis offset
+HS_bg 0.001;//.004;//20 //x-axis offset
 HS_velocity 0.0;//6.0;
-HS_lg 0.00075;//0.00125; //z-axis offset
+HS_lg 0.0005;//0.00125; //z-axis offset
 HS_Q 10000.0;//Power in Watt
 
 HS_deposition_cutoff 0.5;//0.5; not really sure what that is
